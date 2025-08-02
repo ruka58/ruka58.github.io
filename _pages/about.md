@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: me.jpg
+  image: me.jepg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>This photo was taken at giant's causeway of North Ireland</p>
