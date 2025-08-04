@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-#first_name: 
-#middle_name: 
-#last_name: last_name: "Dr Min² JIANG"
-full_name: "Dr Min² JIANG" # the full name of the person (if blank, first_name + middle_name + last_name will be used)
+first_name: 
+middle_name: 
+last_name: "Dr Min² JIANG"
+
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
