@@ -3,9 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Dr Minmin
-middle_name: 
-last_name: JIANG
+#first_name: 
+#middle_name: 
+#last_name: last_name: "Dr Min² JIANG"
+full_name: "Dr Min² JIANG" # the full name of the person (if blank, first_name + middle_name + last_name will be used)
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -46,12 +47,12 @@ repo_trophies:
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
-footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+navbar_fixed: false
+footer_fixed: false
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px

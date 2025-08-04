@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The DAC paper from our group titled "Security of Approximate Neural Networks against Power Side-channel Attacks" will be presented (by me) at UKARIS '25 in September! :sparkles:
+The DAC paper from our group titled "Security of Approximate Neural Networks against Power Side-channel Attacks" will be presented (by me) at UKAIRS '25 in September! :sparkles:
