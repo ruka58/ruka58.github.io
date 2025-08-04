@@ -440,13 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-the-dac-paper-from-our-group-titled-security-of-approximate-neural-networks-against-power-side-channel-attacks-will-be-presented-by-me-at-ukaris-25-in-september-sparkles",
+          title: 'The DAC paper from our group titled “Security of Approximate Neural Networks against...',
           description: "",
           section: "News",},{id: "news-our-recent-paper-titled-barkbeetle-stealing-decision-tree-models-with-fault-injection-is-available-on-arxiv",
           title: 'Our recent paper titled “BarkBeetle: Stealing Decision Tree Models with Fault Injection” is...',
