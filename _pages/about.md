@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Fellow at [CSIT](https://www.qub.ac.uk/research-centres/csit/), Queen's University Belfast. My research aims to build **secure, energy-efficient, lightweight** hardware for embedded systems and AI applications. My research interests spans a range areas including side-channel attacks, fault injection attacks, approximate computing, Trusted Execution Environments (TEEs), and wireless communication, combining power/area/performance with robust hardware-level security. 
+I am a Research Fellow at [CSIT](https://www.qub.ac.uk/research-centres/csit/), Queen's University Belfast. My research aims to build **secure, energy-efficient, lightweight** hardware for embedded systems and AI applications. My research interests include side-channel attacks, fault injection attacks, approximate computing, Trusted Execution Environments (TEEs), and wireless communication, combining performance and (power/area) efficiency with robust hardware-level security. 
 
 Prior to that, I was a Research Fellow at the University of Birmingham participating in the [CAP-TEE Project](https://cap-tee.org/) under the supervision of [Prof. David Oswald](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/oswald-david), focusing on the design of capability-based TEEs. I completed my PhD from the [APT Group](https://www.cs.manchester.ac.uk/research/expertise/advanced-processor-technologies/) at the University of Manchester, where I was supervised by [Dr Vasilis F. Pavlidis](https://scholar.google.com/citations?user=-hDlKqwAAAAJ&hl=zh-CN).  
 
