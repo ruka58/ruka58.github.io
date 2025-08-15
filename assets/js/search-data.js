@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "books-the-godfather",
+  },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Modules I used to act as a Teaching Assistant.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
@@ -19,6 +26,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-recent-paper-titled-barkbeetle-stealing-decision-tree-models-with-fault-injection-is-available-on-arxiv",
           title: 'Our recent paper titled “BarkBeetle: Stealing Decision Tree Models with Fault Injection” is...',
+          description: "",
+          section: "News",},{id: "news-our-recent-paper-titled-rowhammer-mitigation-by-approximate-computing-a-compressed-sensing-case-study-is-accapted-by-iccad-25-sparkles",
+          title: 'Our recent paper titled “Rowhammer Mitigation by Approximate Computing: A Compressed Sensing Case...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
