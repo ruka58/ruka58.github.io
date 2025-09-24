@@ -37,6 +37,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-recent-paper-titled-rowhammer-mitigation-by-approximate-computing-a-compressed-sensing-case-study-is-accepted-by-iccad-25-sparkles",
           title: 'Our recent paper titled “Rowhammer Mitigation by Approximate Computing: A Compressed Sensing Case...',
           description: "",
+          section: "News",},{id: "news-i-will-be-presenting-our-group-s-recent-research-on-hardware-security-in-approximate-computing-on-30th-september-at-esweek-25-in-taipei",
+          title: 'I will be presenting our group’s recent research on “Hardware Security in Approximate...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
