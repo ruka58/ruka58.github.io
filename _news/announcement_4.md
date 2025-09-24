@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting our group’s recent research on "Hardware Security in Approximate Computing" on 30th September at ESWEEK'25 in Taipei!
+I will be presenting our group’s research on "Hardware Security in Approximate Computing" on 30th September at ESWEEK'25 in Taipei!

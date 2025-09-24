@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our recent paper titled "BarkBeetle: Stealing Decision Tree Models with Fault Injection" is available on <a href="https://arxiv.org/abs/2507.06986">arXiv</a>
+Our paper titled "BarkBeetle: Stealing Decision Tree Models with Fault Injection" is available on <a href="https://arxiv.org/abs/2507.06986">arXiv</a>
