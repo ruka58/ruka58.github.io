@@ -40,6 +40,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-presenting-our-group-s-research-on-hardware-security-in-approximate-computing-on-30th-september-at-esweek-25-in-taipei",
           title: 'I will be presenting our group’s research on “Hardware Security in Approximate Computing”...',
           description: "",
+          section: "News",},{id: "news-our-recent-paper-titled-barkbeetle-stealing-decision-tree-models-with-fault-injection-is-accepted-by-asiaccs-26-sparkles",
+          title: 'Our recent paper titled “BarkBeetle: Stealing Decision Tree Models with Fault Injection” is...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
