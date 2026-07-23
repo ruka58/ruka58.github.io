@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our recent paper titled "Rowhammer Mitigation by Approximate Computing: A Compressed Sensing Case Study" is accepted by ICCAD'25! :sparkles:
+Our paper entitled "Rowhammer Mitigation by Approximate Computing: A Compressed Sensing Case Study" is accepted by ICCAD'25! :sparkles:

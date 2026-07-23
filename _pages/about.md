@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: me.jpeg
+  image: bio_1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Giant's causeway, Northern Ireland</p>

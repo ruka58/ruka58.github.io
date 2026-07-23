@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our recent paper titled "BarkBeetle: Stealing Decision Tree Models with Fault Injection" is accepted by AsiaCCS'26! :sparkles:
+Our paper entitled "BarkBeetle: Stealing Decision Tree Models with Fault Injection" is accepted by AsiaCCS'26! :sparkles:
