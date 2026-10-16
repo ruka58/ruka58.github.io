@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-entitled-approxleak-stealing-or-shielding-power-side-channel-analysis-of-approximate-neural-network-is-accepted-by-ieee-transactions-on-computer-aided-design-of-integrated-circuits-and-systems-tcad-sparkles",
           title: 'Our paper entitled “ApproxLeak: Stealing or Shielding? Power Side-Channel Analysis of Approximate Neural...',
           description: "",
+          section: "News",},{id: "news-our-paper-entitled-reliable-approximate-tmr-accelerator-on-fpga-with-post-processing-placement-is-accepted-by-international-conference-on-field-programmable-technology-fpt-26-sparkles",
+          title: 'Our paper entitled “Reliable Approximate TMR Accelerator on FPGA with Post-Processing Placement” is...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
