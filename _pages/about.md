@@ -25,7 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Fellow at [CSIT](https://www.qub.ac.uk/research-centres/csit/), Queen's University Belfast. My research aims to build **secure, robust, and energy-efficient** chips, embedded systems, IoT devices, and AI accelerators. My research interests include side-channel attacks, fault injection attacks, trusted computing, and wireless communication. 
+I am currently a Research Fellow at [CSIT](https://www.qub.ac.uk/research-centres/csit/), Queen's University Belfast, under the supervision of [Dr Chongyan Gu](https://www.qub.ac.uk/schools/eeecs/Study/PostgraduateResearch/find-a-phd-supervisor/dr-chongyan-gu.html). My core research aims to explore **physical and architectural security of emerging computing systems**. Specifically, my research interests include secure AI hardware, secure computer architecture, heterogeneous interconnect security, and automotive radar security.
 
-Prior to that, I was a Research Fellow at the University of Birmingham participating in the [CAP-TEE Project](https://cap-tee.org/) under the supervision of [Prof. David Oswald](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/oswald-david), focusing on the design of capability-based TEEs. I completed my PhD from the [APT Group](https://www.cs.manchester.ac.uk/research/expertise/advanced-processor-technologies/) at the University of Manchester, where I was supervised by [Dr Vasilis F. Pavlidis](https://scholar.google.com/citations?user=-hDlKqwAAAAJ&hl=zh-CN).  
+
+Prior to that, I was a Research Fellow at the University of Birmingham participating in the [CAP-TEE Project](https://cap-tee.org/) under the supervision of [Prof. David Oswald](https://www.durham.ac.uk/staff/david-f-oswald/), focusing on capability-based TEEs. I completed my PhD from the [APT Group](https://www.cs.manchester.ac.uk/research/expertise/advanced-processor-technologies/) at the University of Manchester, where I was supervised by [Prof. Vasilis F. Pavlidis](https://scholar.google.com/citations?user=-hDlKqwAAAAJ&hl=zh-CN).  
 
