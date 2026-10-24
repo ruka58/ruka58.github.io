@@ -49,7 +49,22 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-entitled-reliable-approximate-tmr-accelerator-on-fpga-with-post-processing-placement-is-accepted-by-international-conference-on-field-programmable-technology-fpt-26-sparkles",
           title: 'Our paper entitled “Reliable Approximate TMR Accelerator on FPGA with Post-Processing Placement” is...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-when-approximate-computing-meets-anns",
+          title: 'When approximate computing meets ANNs',
+          description: "Approximate computing can act as a security knob.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_secure_ai_hardware/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_secure_computer_architecture/";
+            },},{id: "projects-em-side-channel-attacks-and-countermeasures-on-interconnects",
+          title: 'EM side-channel attacks and countermeasures on interconnects',
+          description: "Efficient probe placement and dynamic dalay insertion.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_interconnect_security/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
